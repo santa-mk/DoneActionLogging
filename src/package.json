@@ -1,0 +1,25 @@
+{
+  "name": "doneactionlogging",
+  "version": "1.0.0",
+  "description": "Software to log done action for work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santa-mk/DoneActionLogging.git"
+  },
+  "keywords": [
+    "work"
+  ],
+  "author": "Kosuke.Mita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santa-mk/DoneActionLogging/issues"
+  },
+  "homepage": "https://github.com/santa-mk/DoneActionLogging#readme",
+  "devDependencies": {
+    "electron": "^10.1.5"
+  }
+}
